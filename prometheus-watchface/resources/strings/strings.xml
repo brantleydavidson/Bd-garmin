@@ -1,0 +1,30 @@
+<strings>
+    <string id="AppName">Prometheus</string>
+    <string id="SettingsTitle">Settings</string>
+    <string id="OuterArcColorTitle">Outer Arc Color</string>
+    <string id="InnerArcColorTitle">Inner Arc Color</string>
+    <string id="TimeColorTitle">Time Color</string>
+    <string id="MetricColorTitle">Metric Color</string>
+    <string id="Slot1Title">Slot 5 Metric</string>
+    <string id="Slot2Title">Slot 6 Metric</string>
+    <string id="PremiumThemeTitle">Theme (Premium)</string>
+    <string id="ColorOrange">Orange</string>
+    <string id="ColorTeal">Teal</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorPurple">Purple</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorGold">Gold</string>
+    <string id="ColorWhite">White</string>
+    <string id="MetricLoad">Training Load</string>
+    <string id="MetricTSS">Weekly TSS</string>
+    <string id="MetricSleepScore">Sleep Score</string>
+    <string id="MetricSteps">Steps</string>
+    <string id="MetricCalories">Calories</string>
+    <string id="MetricStress">Stress</string>
+    <string id="MetricVO2Max">VO2 Max</string>
+    <string id="MetricFloors">Floors</string>
+    <string id="ThemePrometheus">Prometheus</string>
+    <string id="ThemeDeepNavy">Deep Navy</string>
+    <string id="ThemeCarbon">Carbon</string>
+    <string id="ThemeEmberRed">Ember Red</string>
+</strings>

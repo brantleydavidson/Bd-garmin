@@ -1,0 +1,15 @@
+# Garmin Connect IQ build artifacts
+bin/
+build/
+*.iq
+*.prg
+
+# IDE
+.settings/
+.project
+.classpath
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

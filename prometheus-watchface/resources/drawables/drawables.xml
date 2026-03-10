@@ -1,0 +1,11 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="ic_sunny" filename="ic_sunny.png" />
+    <bitmap id="ic_partly_cloudy" filename="ic_partly_cloudy.png" />
+    <bitmap id="ic_rain" filename="ic_rain.png" />
+    <bitmap id="ic_thunderstorm" filename="ic_thunderstorm.png" />
+    <bitmap id="ic_fog" filename="ic_fog.png" />
+    <bitmap id="ic_snow" filename="ic_snow.png" />
+    <bitmap id="ic_clear_night" filename="ic_clear_night.png" />
+    <bitmap id="ic_windy" filename="ic_windy.png" />
+</drawables>

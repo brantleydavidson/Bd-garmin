@@ -1,0 +1,76 @@
+<settings>
+    <setting propertyKey="outerArcColor" title="@Strings.OuterArcColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorOrange</listEntry>
+            <listEntry value="1">@Strings.ColorTeal</listEntry>
+            <listEntry value="2">@Strings.ColorBlue</listEntry>
+            <listEntry value="3">@Strings.ColorPurple</listEntry>
+            <listEntry value="4">@Strings.ColorRed</listEntry>
+            <listEntry value="5">@Strings.ColorGold</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="innerArcColor" title="@Strings.InnerArcColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorOrange</listEntry>
+            <listEntry value="1">@Strings.ColorTeal</listEntry>
+            <listEntry value="2">@Strings.ColorBlue</listEntry>
+            <listEntry value="3">@Strings.ColorPurple</listEntry>
+            <listEntry value="4">@Strings.ColorRed</listEntry>
+            <listEntry value="5">@Strings.ColorGold</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="timeColor" title="@Strings.TimeColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>
+            <listEntry value="1">@Strings.ColorOrange</listEntry>
+            <listEntry value="2">@Strings.ColorTeal</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="metricColor" title="@Strings.MetricColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>
+            <listEntry value="1">@Strings.ColorOrange</listEntry>
+            <listEntry value="2">@Strings.ColorTeal</listEntry>
+            <listEntry value="3">@Strings.ColorBlue</listEntry>
+            <listEntry value="4">@Strings.ColorPurple</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="slot1Metric" title="@Strings.Slot1Title">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.MetricLoad</listEntry>
+            <listEntry value="1">@Strings.MetricTSS</listEntry>
+            <listEntry value="2">@Strings.MetricSleepScore</listEntry>
+            <listEntry value="3">@Strings.MetricSteps</listEntry>
+            <listEntry value="4">@Strings.MetricCalories</listEntry>
+            <listEntry value="5">@Strings.MetricStress</listEntry>
+            <listEntry value="6">@Strings.MetricVO2Max</listEntry>
+            <listEntry value="7">@Strings.MetricFloors</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="slot2Metric" title="@Strings.Slot2Title">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.MetricLoad</listEntry>
+            <listEntry value="1">@Strings.MetricTSS</listEntry>
+            <listEntry value="2">@Strings.MetricSleepScore</listEntry>
+            <listEntry value="3">@Strings.MetricSteps</listEntry>
+            <listEntry value="4">@Strings.MetricCalories</listEntry>
+            <listEntry value="5">@Strings.MetricStress</listEntry>
+            <listEntry value="6">@Strings.MetricVO2Max</listEntry>
+            <listEntry value="7">@Strings.MetricFloors</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="premiumTheme" title="@Strings.PremiumThemeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ThemePrometheus</listEntry>
+            <listEntry value="1">@Strings.ThemeDeepNavy</listEntry>
+            <listEntry value="2">@Strings.ThemeCarbon</listEntry>
+            <listEntry value="3">@Strings.ThemeEmberRed</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

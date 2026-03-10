@@ -1,0 +1,5 @@
+<menus>
+    <menu id="MainMenu">
+        <menuItem id="SettingsItem">@Strings.SettingsTitle</menuItem>
+    </menu>
+</menus>

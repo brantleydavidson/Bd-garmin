@@ -1,0 +1,7 @@
+<layouts>
+    <layout id="WatchFace">
+        <drawable id="background" class="WatchUi.Drawable">
+            <param name="identifier">"background"</param>
+        </drawable>
+    </layout>
+</layouts>
